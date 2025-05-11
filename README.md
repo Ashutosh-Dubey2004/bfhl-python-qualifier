@@ -11,9 +11,9 @@
 
 ## 👤 Developer Info
 
-- Name: John Doe
+- Name: Ashutosh Dubey 
 - Reg No: REG12347
-- Email: john@example.com
+- Email: ashutoshdubey.ca21@acropolis.in
 
 ---
 
